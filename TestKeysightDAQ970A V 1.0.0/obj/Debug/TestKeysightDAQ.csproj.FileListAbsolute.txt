@@ -1,0 +1,30 @@
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\bin\Debug\TestKeysightDAQ.exe.config
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\bin\Debug\TestKeysightDAQ.exe
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\bin\Debug\TestKeysightDAQ.pdb
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\obj\Debug\TestKeysightDAQ.csproj.AssemblyReference.cache
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\obj\Debug\TestKeysightDAQ.csproj.SuggestedBindingRedirects.cache
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\obj\Debug\TestKeysightDAQ.csproj.CoreCompileInputs.cache
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\obj\Debug\TestKeysightDAQ.exe
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\obj\Debug\TestKeysightDAQ.pdb
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\obj\Debug\Interop.BASICFORMATTEDIOLib.dll
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ\obj\Debug\TestKeysightDAQ.csproj.ResolveComReference.cache
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\obj\Debug\TestKeysightDAQ.csproj.AssemblyReference.cache
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\obj\Debug\TestKeysightDAQ.csproj.SuggestedBindingRedirects.cache
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\obj\Debug\Interop.BASICFORMATTEDIOLib.dll
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\obj\Debug\TestKeysightDAQ.csproj.ResolveComReference.cache
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\obj\Debug\TestKeysightDAQ.csproj.CoreCompileInputs.cache
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\obj\Debug\TestKeysightDAQ.exe
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\obj\Debug\TestKeysightDAQ.pdb
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\bin\Debug\TestKeysightDAQ.exe.config
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\bin\Debug\TestKeysightDAQ.exe
+D:\DSUsers\seggewissb\SW\C# Playground\TestKeysightDAQ970A\bin\Debug\TestKeysightDAQ.pdb
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\bin\Debug\TestKeysightDAQ.exe.config
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\bin\Debug\TestKeysightDAQ.exe
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\bin\Debug\TestKeysightDAQ.pdb
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\obj\Debug\TestKeysightDAQ.csproj.AssemblyReference.cache
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\obj\Debug\TestKeysightDAQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\obj\Debug\Interop.BASICFORMATTEDIOLib.dll
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\obj\Debug\TestKeysightDAQ.csproj.ResolveComReference.cache
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\obj\Debug\TestKeysightDAQ.csproj.CoreCompileInputs.cache
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\obj\Debug\TestKeysightDAQ.exe
+C:\Users\seggewissb\OneDrive - Continental AG\SW\C#\Visual Studio 2022\DAQ970A meter Keysight\TestKeysightDAQ970A V 1.0.0\obj\Debug\TestKeysightDAQ.pdb
